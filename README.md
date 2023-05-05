@@ -1,6 +1,16 @@
 # [CITY](https://city-fresh-n-hot.netlify.app/) 
 ## The Fastest Food Delivery In Your City
 
+- The web application was developed using ReactJS, a popular JavaScript library, with the aim of implementing industry best practices. The application features Google Authentication using FIREBASE, with the entire database management system set up using the same technology. The admin functionality enables authorized personnel to upload new items to the menu.
+
+- The application incorporates a cart functionality, allowing users to easily add and manage items they wish to purchase. Additionally, the items are filtered by category, providing a more streamlined user experience.
+
+- The website boasts of a fully responsive design, adapting to various screen sizes and devices. The CSS and styling elements of the website were implemented using TailwindCSS, a utility-first CSS framework that prioritizes high performance and customization.
+
+- Overall, this is a full-stack web application that leverages modern web development concepts like Redux, Reducers, Hooks and State Providers. The application is well-suited for online food ordering and buying, and I am confident it will meet the needs of users in the most effective and efficient manner possible.
+
+
+## Features
 - The Application has been made using **React**. I have tried to use the beest practices known to be a good developer while creating this application.
 - This Application consists of **Google Authentication** using **FIREBASE**.
 - The whole Database is setup using FIREBASE.
